@@ -43,6 +43,11 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />
 </p>
 
+## 💻 Lenguajes más utilizados en GitHub
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&layout=compact&theme=radical)](https://github.com/reii23)
+
+
 ## 📊 Contribuciones
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=radical)
 
