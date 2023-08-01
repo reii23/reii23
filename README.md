@@ -46,10 +46,10 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
-    <img src="[https://img.icons8.com/color/48/000000/microsoft-sql-server.png](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png)" alt="SQL" title="SQL" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png](https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png)" alt="SQL" title="SQL" />
   </a>
   <a href="https://www.postman.com/">
-    <img src="[https://img.icons8.com/dusk/64/000000/postman-api.png](https://cdn.worldvectorlogo.com/logos/postman.svg)" alt="PostMan" title="PostMan" />
+    <img src="https://img.icons8.com/dusk/64/000000/postman-api.png](https://cdn.worldvectorlogo.com/logos/postman.svg)" alt="PostMan" title="PostMan" />
   </a>
 </p>
 
