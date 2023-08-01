@@ -41,6 +41,16 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
   </a>
   <a href="https://www.learn-c.org/">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
+  </a>
+  <a href="https://www.sql.com/">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="PostMan" title="PostMan" />
+  </a>
 </p>
 
 ## 💻 Lenguajes más utilizados
