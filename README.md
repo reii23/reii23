@@ -13,6 +13,10 @@ Soy un estudiante de Ingeniería Civil Informática. Me gusta aprender nuevas te
 ## ⚡ Proyectos destacados
 Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium) y la cuenta de [Instagram](https://www.instagram.com/usach.premium/).
 
+<div align="center">
+  <img src="https://imgur.com/vTZNHt6" alt="Proyecto Destacado" width="300">
+</div>
+
 ## ⚡ Herramientas Utilizadas
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
