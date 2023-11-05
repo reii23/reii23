@@ -1,14 +1,11 @@
-# ¡Hola, me llamo Reinaldo! 👋
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="¡Bienvenido a mi perfil de GitHub!" width="300">
-</div>
-
+<p align="center">
 ## 🌱 Un poco sobre mí ...
 Soy un estudiante de Ingeniería Civil Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
+- 💻 Actualmente trabajando en Sistema de Creación e Interacción de Chatbots en Prolog 🦉
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
+</p>
 
 ## ⚡ Proyectos destacados
 Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium) y la cuenta de [Instagram](https://www.instagram.com/usach.premium/).
@@ -49,15 +46,23 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
 
 
 ## 💻 Lenguajes más utilizados
-
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&layout=compact&theme=radical)](https://github.com/reii23)
-
+<p align="center">
+  <a href="https://github.com/reii23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&layout=compact&theme=radical" />
+  </a>
+</p>
 
 ## 📊 Contribuciones
-![Contribuciones](https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/reii23">
+    <img src="https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=radical" />
+  </a>
+</p>
 
 ## 📫 ¿Cómo contactarme?
 Puedes enviarme un mensaje a mi correo electrónico reinaldo.pacheco@usach.cl o contactarme a través de [LinkedIn](https://www.linkedin.com/in/reiii23/)
 
 ## 💬 Cita favorita
+<p align="center">
 > "La tecnología se alimenta de la innovación. Sin innovación, la tecnología es solo una herramienta." - Steve Jobs
+</p>
