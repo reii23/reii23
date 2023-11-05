@@ -1,11 +1,10 @@
-<p align="center">
+
 ## 🌱 Un poco sobre mí ...
 Soy un estudiante de Ingeniería Civil Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
 - 💻 Actualmente trabajando en Sistema de Creación e Interacción de Chatbots en Prolog 🦉
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
-</p>
 
 ## ⚡ Proyectos destacados
 Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium) y la cuenta de [Instagram](https://www.instagram.com/usach.premium/).
