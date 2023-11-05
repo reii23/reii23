@@ -62,6 +62,4 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
 Puedes enviarme un mensaje a mi correo electrónico reinaldo.pacheco@usach.cl o contactarme a través de [LinkedIn](https://www.linkedin.com/in/reiii23/)
 
 ## 💬 Cita favorita
-<p align="center">
 > "La tecnología se alimenta de la innovación. Sin innovación, la tecnología es solo una herramienta." - Steve Jobs
-</p>
