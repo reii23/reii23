@@ -3,7 +3,7 @@
 Soy un estudiante de Ingeniería Civil Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
-- 💻 Actualmente trabajando en Sistema de Creación e Interacción de Chatbots en Prolog 🦉
+- 💻 Actualmente trabajando en Sistema de Creación e Interacción de Chatbots en Java ☕
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
 
 ## ⚡ Proyectos destacados
