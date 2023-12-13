@@ -44,19 +44,13 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
 </p>
 
 
-## 💻 Lenguajes más utilizados
-<p align="center">
-  <a href="https://github.com/reii23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&layout=compact&theme=radical" />
-  </a>
-</p>
+<img height="200" width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=423" alt="reii23" />
+</div>
 
-## 📊 Contribuciones
-<p align="center">
-  <a href="https://github.com/reii23">
-    <img src="https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=radical" />
-  </a>
-</p>
+<div style="background-color: #D3D3D3; padding: 20px; text-align: center;">
+  <img height="200" width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=reii23&theme=gruvbox&hide_border=true&card_width=500" alt="reii23" />
+  <img height="200" width="100%" style="display: block; margin: 20px auto;" src="https://github-readme-stats.vercel.app/api?username=reii23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=500&show_icons=true&rank_icon=percentile" alt="reii23" />
+</div>
 
 ## 📫 ¿Cómo contactarme?
 Puedes enviarme un mensaje a mi correo electrónico reinaldo.pacheco@usach.cl o contactarme a través de [LinkedIn](https://www.linkedin.com/in/reiii23/)
