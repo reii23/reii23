@@ -12,44 +12,54 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
 ## ⚡ Herramientas Utilizadas
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" />
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" />
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub" />
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019--v1.png" alt="Visual Studio Code" title="Visual Studio Code" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019--v1.png" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" title="Linux" />
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" title="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.learn-c.org/">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png" alt="Java" title="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.scheme.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" alt="Scheme" title="Scheme" width="40" height="40"/>
+  </a>
+  <a href="https://www.swi-prolog.org/">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png" alt="Prolog" title="Prolog" width="40" height="40"/>
+  </a>
+  <a href="https://www.rstudio.com/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-r-project-3629007-3030232.png" alt="RStudio" title="RStudio" width="40" height="40"/>
   </a>
 </p>
 
-
-<img height="200" width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=423" alt="reii23" />
-</div>
-
-<div style="background-color: #D3D3D3; padding: 20px; text-align: center;">
-  <img height="200" width="100%" style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=reii23&theme=gruvbox&hide_border=true&card_width=500" alt="reii23" />
-  <img height="200" width="100%" style="display: block; margin: 20px auto;" src="https://github-readme-stats.vercel.app/api?username=reii23&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&card_width=500&show_icons=true&rank_icon=percentile" alt="reii23" />
+## 📊 Estadísticas de GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&theme=github_dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados"/>
+<img src="https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadisticas GitHub"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reii23&theme=github_dark&hide_border=true" alt="Racha de Contribuciones"/>
 </div>
 
 ## 📫 ¿Cómo contactarme?
