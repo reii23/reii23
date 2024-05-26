@@ -1,13 +1,13 @@
 
 ## 🌱 Un poco sobre mí ...
-Soy un estudiante de Ingeniería Civil Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
+Soy un estudiante de Ingeniería de Ejecución en Computación e Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
-- 💻 Actualmente trabajando en Sistema de Creación e Interacción de Chatbots en Java ☕
+- 👨‍💻 Actualmente estoy aprendiendo manejo y uso de hebras en C.
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
 
 ## ⚡ Proyectos destacados
-Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium) y la cuenta de [Instagram](https://www.instagram.com/usach.premium/).
+Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium), la cuenta de [Instagram](https://www.instagram.com/usach.premium/), y la página [www.usachpremium.cl](https://www.usachpremium.cl).
 
 ## ⚡ Herramientas Utilizadas
 <p align="center">
@@ -57,13 +57,16 @@ Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile 
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&theme=github_dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados"/>
-<img src="https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadisticas GitHub"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reii23&theme=github_dark&hide_border=true" alt="Racha de Contribuciones"/>
+  <a href="https://github.com/reii23">
+    <img src="https://github-readme-stats.vercel.app/api?username=reii23&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas GitHub"/>
+  </a>
+  <a href="https://github.com/reii23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reii23&theme=dark&hide_border=true&layout=compact" alt="Lenguajes Utilizados"/>
+  </a>
+  <a href="https://github.com/reii23">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reii23&theme=dark&hide_border=true" alt="Racha de Contribuciones"/>
+  </a>
 </div>
 
 ## 📫 ¿Cómo contactarme?
 Puedes enviarme un mensaje a mi correo electrónico reinaldo.pacheco@usach.cl o contactarme a través de [LinkedIn](https://www.linkedin.com/in/reiii23/)
-
-## 💬 Cita favorita
-> "La tecnología se alimenta de la innovación. Sin innovación, la tecnología es solo una herramienta." - Steve Jobs
