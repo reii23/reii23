@@ -3,7 +3,7 @@
 Soy un estudiante de Ingeniería de Ejecución en Computación e Informática. Me gusta aprender nuevas tecnologías y resolver problemáticas relacionadas con el emprendimiento y la innovación.
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
-- 👨‍💻 Actualmente estoy aprendiendo manejo y uso de hebras en C.
+- 👨‍💻 Actualmente estoy aprendiendo desarrollo backend a través de Java SpringBoot
 - 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
 
 ## ⚡ Proyectos destacados
