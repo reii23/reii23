@@ -4,7 +4,7 @@ Soy un estudiante de Ingeniería de Ejecución en Computación e Informática. M
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
 - 👨‍💻 Actualmente estoy aprendiendo desarrollo backend a través de Java SpringBoot
-- 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reiii23/)
+- 🌐 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/reii23/)
 
 ## ⚡ Proyectos destacados
 Actualmente formo parte de una comunidad de la Universidad de Santiago de Chile llamada "Usach Premium" la cual realiza tutorías de forma online y presencial de Cálculo I, Álgebra I, Física I, Cálculo II, Fundamentos de Economía, entre otros. Me encargo principalmente de temas de manejo de las redes sociales, creación de contenido y diseño de miniaturas e imágenes para el canal de [YouTube](https://www.youtube.com/@UsachPremium), la cuenta de [Instagram](https://www.instagram.com/usach.premium/), y la página [www.usachpremium.cl](https://www.usachpremium.cl).
