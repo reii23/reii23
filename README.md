@@ -2,8 +2,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNwbnRibXcybW5rbXJ5MnZzMGt4M2NicHk0YzlkeDYwMXE2NnRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/joqrWzf3Bz9jG/giphy.gif" alt="GIF of a Bat in Flight" width="220" height="150" />
 </p>
 <p align="center">
-  <a href="mailto:reinaldo.pacheco@usach.cl">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=reinaldo.pacheco@usach.cl" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
   <a href="https://www.linkedin.com/in/reii23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reii23&label=👁️%20Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
 ---
 
 ### 💻 Sobre Mí
